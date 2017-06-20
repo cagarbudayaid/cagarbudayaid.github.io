@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cagar Budaya Indonesia</title>
+    <link>http://cagarbudaya.id/</link>
+    <description>Recent content on Cagar Budaya Indonesia</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ID-id</language>
+    <lastBuildDate>Tue, 20 Jun 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://cagarbudaya.id/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Selamat Datang</title>
+      <link>http://cagarbudaya.id/blog/hello-world/</link>
+      <pubDate>Tue, 20 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://cagarbudaya.id/blog/hello-world/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tentang Cagar Budaya Indonesia</title>
+      <link>http://cagarbudaya.id/about/</link>
+      <pubDate>Thu, 20 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://cagarbudaya.id/about/</guid>
+      <description>&lt;p&gt;Halo kami adalah komunitas non-profit yang ingin menjaga situs cagar budaya yang berada di Indonesia dengan memberikan pengetahuan bagi pengunjung situs dan membantu masyarakat sekitar situs cagar budaya untuk berkembang.&lt;/p&gt;
+
+&lt;p&gt;untuk sekarang, program reguler kami adalah kunjungan lapangan ke situs cagar budaya yang diadakan setiap bulannya. Kami percaya untuk menumpuhkan rasa cinta dan rasa memiliki terhadap cagar budaya dimulai dengan mengetahuinya.&lt;/p&gt;
+
+&lt;p&gt;Untuk lebih mengenal kami silakan hubungi kami melalui email di infocagarbudaya@gmail.com dan media sosial instagram kami @cagarbud_kita&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
