@@ -2,28 +2,28 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cagar Budaya Indonesia</title>
-    <link>https://cagarbudaya.id/</link>
+    <link>http://cagarbudaya.id/</link>
     <description>Recent content on Cagar Budaya Indonesia</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 20 Jun 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://cagarbudaya.id/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://cagarbudaya.id/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Selamat Datang</title>
-      <link>https://cagarbudaya.id/blog/hello-world/</link>
+      <link>http://cagarbudaya.id/blog/hello-world/</link>
       <pubDate>Tue, 20 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://cagarbudaya.id/blog/hello-world/</guid>
+      <guid>http://cagarbudaya.id/blog/hello-world/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tentang Cagar Budaya Indonesia</title>
-      <link>https://cagarbudaya.id/about/</link>
+      <link>http://cagarbudaya.id/about/</link>
       <pubDate>Thu, 20 Oct 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://cagarbudaya.id/about/</guid>
+      <guid>http://cagarbudaya.id/about/</guid>
       <description>&lt;p&gt;Halo kami adalah komunitas non-profit yang ingin menjaga situs cagar budaya yang berada di Indonesia dengan memberikan pengetahuan bagi pengunjung situs dan membantu masyarakat sekitar situs cagar budaya untuk berkembang.&lt;/p&gt;
 
 &lt;p&gt;untuk sekarang, program reguler kami adalah kunjungan lapangan ke situs cagar budaya yang diadakan setiap bulannya. Kami percaya untuk menumpuhkan rasa cinta dan rasa memiliki terhadap cagar budaya dimulai dengan mengetahuinya.&lt;/p&gt;
